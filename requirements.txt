@@ -4,3 +4,4 @@ langchain-huggingface
 chromadb
 wikipedia
 python-dotenv
+sentence-transformers

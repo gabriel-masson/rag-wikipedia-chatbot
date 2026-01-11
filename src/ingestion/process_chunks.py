@@ -2,7 +2,7 @@ import os
 from chunker import TextChunker
 
 PROCESSED_DIR = "data/processed"
-CHUNKED_DIR = "data/chunked"
+CHUNKED_DIR = "data/chunks"
 
 
 def process_chunks():
